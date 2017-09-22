@@ -1,4 +1,4 @@
-CyanogenMod/LineageOS 13 device configuration for [ZTE Open C / Kis 3](http://konstakang.com/devices/kis3/CM13).
+CyanogenMod/LineageOS 13 device configuration for Nokia X2(Ara).
 
 How to build:
 -------------
